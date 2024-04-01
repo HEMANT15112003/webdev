@@ -1,0 +1,6 @@
+<!ELEMENT student(name,email,age,course,gpa)>
+<!ELEMENT name(#PCDATA)>
+<!ELEMENT email(#PCDATA)>
+<!ELEMENT age(#PCDATA)>
+<!ELEMENT course(#PCDATA)>
+<!ELEMENT gpa(#PCDATA)>
