@@ -1,0 +1,6 @@
+<!ELEMENT catalog (anime+) >
+<!ELEMENT anime (author, title, description) >
+<!ATTLIST anime id ID #REQUIRED>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
