@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="anime.xsl"?>
+<catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="anime.xsd">
+    <anime id="an101">
+        <author>Hayao Miyazaki</author>
+        <title>Spirited Away</title>
+        <description>A young girl enters a world of spirits and must find a way to free her parents and return to the human world.</description>
+    </anime>
+    <anime id="an102">
+        <author>Mamoru Hosoda</author>
+        <title>The Girl Who Leapt Through Time</title>
+        <description>A high-school girl acquires the ability to time travel.</description>
+    </anime>
+    <anime id="an103">
+        <author>Isao Takahata</author>
+        <title>Grave of the Fireflies</title>
+        <description>A tragic film covering a young boy and his little sister's struggle to survive in Japan during World War II.</description>
+    </anime>
+    <anime id="an104">
+        <author>Makoto Shinkai</author>
+        <title>Your Name</title>
+        <description>Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?</description>
+    </anime>
+    <anime id="an105">
+        <author>Satoshi Kon</author>
+        <title>Paprika</title>
+        <description>When a machine that allows therapists to enter their patients' dreams is stolen, all Hell breaks loose.</description>
+    </anime>
+</catalog>
